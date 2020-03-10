@@ -1,6 +1,9 @@
 {
   "name": "matrimony",
   "version": "0.0.0",
+  "publishConfig": {
+    "registry": "http://18.216.178.195:8081/repository/test-npm/"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
